@@ -1,7 +1,7 @@
 
 # Dark Mode
 
-Este é um projeto de tela em modo escuro responsivo
+Este é um projeto de tela em modo claro / escuro responsivo
 
 ## Iniciando
 
